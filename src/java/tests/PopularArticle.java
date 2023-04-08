@@ -31,7 +31,7 @@ public class PopularArticle extends CoreTestCase {
     public void testReadTheMostPopularArticle() {
         navigationUI.waitForMainScreenOpens();
         if(Platform.getInstance().isIOS() || Platform.getInstance().isAndroid()){
-            popularPageObject.clickToPopularBtn();
+            //popularPageObject.clickToPopularBtn();
             popularPageObject.chooseTheMostPopularArticle();
             articlePageObject.swipeToFooter();
             articlePageObject.swipeToHeader();

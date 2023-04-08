@@ -5,7 +5,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class AndroidPopularPageObject extends PopularPageObject {
     static {
-        POPULAR_BTN = "xpath://android.widget.LinearLayout[@content-desc='Popularddd']";
+        POPULAR_BTN = "xpath://android.widget.LinearLayout[@content-desc='Popular']";
         THE_MOST_POPUlAR_ARTICLE = "xpath://*[@resource-id='bbc.mobile.news.ww:id/content_card_ordered_badge'][@text='1']";
     }
 
