@@ -11,9 +11,9 @@ import org.junit.Test;
 
 public class MyNews extends CoreTestCase {
     NavigationUI navigationUI;
-    MyNewsPageObject myNewsPageObject;
-    SearchPageObject searchPageObject;
-    ArticlePageObject articlePageObject;
+    //MyNewsPageObject myNewsPageObject;
+    //SearchPageObject searchPageObject;
+    //ArticlePageObject articlePageObject;
 
     @Override
     public void setUp() throws Exception {
