@@ -11,9 +11,9 @@ import lib.ui.factories.SearchPageObjectFactory;
 import org.junit.Test;
 
 public class SearchArticle extends CoreTestCase {
-    NavigationUI navigationUI;
-    SearchPageObject searchPageObject;
-    ArticlePageObject articlePageObject;
+    //NavigationUI navigationUI;
+    //SearchPageObject searchPageObject;
+    //ArticlePageObject articlePageObject;
 
     @Override
     public void setUp() throws Exception {
