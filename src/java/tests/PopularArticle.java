@@ -13,10 +13,10 @@ import lib.ui.factories.PopularPageObjectFactory;
 import org.junit.Test;
 
 public class PopularArticle extends CoreTestCase {
-    PopularPageObject popularPageObject;
-    NavigationUI navigationUI;
-    ArticlePageObject articlePageObject;
-    MyNewsPageObject myNewsPageObject;
+    //PopularPageObject popularPageObject;
+    //NavigationUI navigationUI;
+    //ArticlePageObject articlePageObject;
+    //MyNewsPageObject myNewsPageObject;
 
     @Override
     public void setUp() throws Exception {
